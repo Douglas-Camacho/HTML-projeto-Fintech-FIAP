@@ -39,3 +39,10 @@ fieldset {
     background-color: #424242; 
     color: #f2f2f2;
 }
+
+#box-cadastro {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+
